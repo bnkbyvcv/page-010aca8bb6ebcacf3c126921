@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.cqylsxk.cn/sitemap.xml
